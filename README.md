@@ -63,9 +63,9 @@ Bank-Loan-Analysis-PowerBI-SQL
 │   └── SQL_Query_Documentation.pdf
 │
 ├── Images
-│   ├── Dashboard_Summary.png
-│   ├── Dashboard_Overview.png
-│   └── Dashboard_Details.png
+│   ├── Summary.png
+│   ├── Overview.png
+│   └── Details.png
 │
 └── README.md
 ```
@@ -206,19 +206,19 @@ Some key insights generated from this analysis include:
 
 ## Summary Dashboard
 
->![Summary Dashboard](Images/Dashboard_Summary.png)
+>![Summary Dashboard](Images/Summary.png)
 
 ---
 
 ## Overview Dashboard
 
-> ![Overview Dashboard](Images/Dashboard_Overview.png)
+> ![Overview Dashboard](Images/Overview.png)
 
 ---
 
 ## Details Dashboard
 
-> ![Details Dashboard](Images/Dashboard_Details.png)
+> ![Details Dashboard](Images/Details.png)
 
 ---
 
